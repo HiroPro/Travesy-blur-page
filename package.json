@@ -1,0 +1,23 @@
+{
+  "name": "BlurEffectSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiroPro/Travesy-blur-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiroPro/Travesy-blur-page/issues"
+  },
+  "homepage": "https://github.com/HiroPro/Travesy-blur-page",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
